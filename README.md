@@ -1,5 +1,5 @@
 # SonarRockMinePrediction
-# WorkFlow
+# WORKFLOW
 ![WorkFlow](https://github.com/CatalystsReachOut/SonarRockMinePrediction/blob/master/Screenshot%202022-09-02%20at%2002.00.34.png)<br>
 ## Collect Sonar Data 
 Laboratory setup experiment can be done where sonar is used to send and receive signals. There is far difference between signals received from mines and rocks. Because mines will be made up of metal. So, we collect this data which is nothing but the sonar  data obtained from a rock and a metal cylinder. 
@@ -15,5 +15,5 @@ After that, we will train our model with 80-90% of training-data and 10–20% w
 ## Logistic Regression Model 
 Why Logistic Regression Model ? Because, this model works very well for [Binary Classification Problem](https://machinelearningmastery.com/types-of-classification-in-machine-learning/). It is a Binary Classification Problem (Rock or a Mine). This is a Supervised Learning Algorithm.<br><br>
  
-# Final Overview
+# Conclusion
 ![Final Overview](https://github.com/CatalystsReachOut/SonarRockMinePrediction/blob/master/Screenshot%202022-09-02%20at%2002.07.51.png)
