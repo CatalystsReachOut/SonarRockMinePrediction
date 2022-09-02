@@ -13,7 +13,7 @@ We must process data for better results. In preprocessing, we do cleaning, filli
 After that, we will train our model with 80-90% of training-data and 10–20% will be used to test-data. And evaluate our model with the help of test-data.<br><br>
 
 ## Logistic Regression Model 
-Why Logistic Regression Model ? Because, this model works very well for Binary Classification Problem. It is a Binary Classification Problem (Rock or a Mine). This is a Supervised Learning Algorithm.<br><br>
+Why Logistic Regression Model ? Because, this model works very well for [Binary Classification Problem](https://machinelearningmastery.com/types-of-classification-in-machine-learning/). It is a Binary Classification Problem (Rock or a Mine). This is a Supervised Learning Algorithm.<br><br>
  
 # Final Overview
 ![Final Overview](https://github.com/CatalystsReachOut/SonarRockMinePrediction/blob/master/Screenshot%202022-09-02%20at%2002.07.51.png)
